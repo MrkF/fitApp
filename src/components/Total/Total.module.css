@@ -1,0 +1,11 @@
+.Total {
+    display: flex;
+    flex-direction: column-reverse;
+    height: 100%;
+}
+
+.totalField {
+    display: flex;
+    flex-direction: column-reverse;
+    height: 100%;
+}
